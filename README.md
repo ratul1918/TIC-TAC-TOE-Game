@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game (Java)
 
-This is a simple **Tic-Tac-Toe (X-O)** game built using Java. The game allows two players to take turns and play Tic-Tac-Toe on a 3x3 board until there is a winner or the game ends in a draw..
+This is a simple **Tic-Tac-Toe (X-O)** game built using Java. The game allows two players to take turns and play Tic-Tac-Toe on a 3x3 board until there is a winner or the game ends in a draw....
 
 ## 🧩 Features
 
