@@ -191,7 +191,7 @@ public class TicTacToe implements ActionListener {
         }
     }
 
-    // Handle X win: highlight and disable buttons
+    // Handle X win: highlight and disable buttons.
     public void XWins(int a, int b, int c) {
         buttons[a].setBackground(Color.GREEN);
         buttons[b].setBackground(Color.GREEN);
@@ -203,7 +203,7 @@ public class TicTacToe implements ActionListener {
         textFiled.setText("X wins");
     }
 
-    // Handle O win: highlight and disable buttons
+    // Handle O win: highlight and disable buttons.
     public void OWins(int a, int b, int c) {
         buttons[a].setBackground(Color.GREEN);
         buttons[b].setBackground(Color.GREEN);
