@@ -21,5 +21,3 @@ This is a simple **Tic-Tac-Toe (X-O)** game built using Java. The game allows tw
    ```bash
    git clone https://github.com/ratul1918/tic-tac-toe-java.git
    cd tic-tac-toe-java
-
-
