@@ -19,4 +19,4 @@ This is a simple **Tic-Tac-Toe (X-O)** game built using Java. The game allows tw
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ratul1918/tic-tac-toe-java.git
-   cd tic-tac-toe-java 
+   cd Tic-Tac-Toe-Game
