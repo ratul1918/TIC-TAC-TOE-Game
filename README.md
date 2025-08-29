@@ -8,7 +8,7 @@ This is a simple **Tic-Tac-Toe (X-O)** game built using Java. The game allows tw
 - Displays winning message or draw
 - Reset functionality to play again
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 - Java 
 - Java Swing (for GUI) 
