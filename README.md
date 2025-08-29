@@ -14,7 +14,7 @@ This is a simple **Tic-Tac-Toe (X-O)** game built using Java. The game allows tw
 - Java Swing (for GUI) 
 - OOP principles 
  
-## 🚀 How to Run
+## 🚀 How to Run 
 
 1. **Clone the Repository:**
    ```bash
