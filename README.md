@@ -5,7 +5,7 @@ This is a simple **Tic-Tac-Toe (X-O)** game built using Java. The game allows tw
 ## 🧩 Features  
 - Two-player mode 
 - Graphical user interface (Java Swing)
-- Displays winning message or draw
+- Displays winning message or draw 
 - Reset functionality to play again 
 
 ## 🛠️ Technologies Used 
