@@ -1,10 +1,10 @@
-// Import necessary packages...
+// Import necessary packages... 
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 import javax.swing.*;
 
-// Main class implementing ActionListener for handling button events.
+// Main class implementing ActionListener for handling button events. 
 public class TicTacToe implements ActionListener {
 
     Random random = new Random(); // For randomly selecting which player starts
