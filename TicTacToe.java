@@ -24,7 +24,7 @@ public class TicTacToe implements ActionListener {
         frame.setLayout(new BorderLayout());
         frame.setVisible(true);
 
-        // Setup the title label
+        // Setup the title label 
         textFiled.setBackground(Color.CYAN);
         textFiled.setForeground(Color.BLACK);
         textFiled.setFont(new Font("Ink Free", Font.BOLD, 70));
