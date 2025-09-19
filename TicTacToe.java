@@ -102,7 +102,7 @@ public class TicTacToe implements ActionListener {
     }
 
     // Check all winning conditions
-    public void check() {
+    public void check() { 
         // NOTE: The '==' operator is incorrect for string comparison.
         // Use `.equals()` instead, or it may not work reliably.
 
