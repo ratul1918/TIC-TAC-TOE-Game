@@ -10,7 +10,7 @@ This is a simple **Tic-Tac-Toe (X-O)** game built using Java. The game allows tw
 
 ## 🛠️ Technologies Used
 
-- Java 
+- Java
 - Java Swing (for GUI) 
 - OOP principles 
  
